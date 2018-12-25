@@ -1,2 +1,0 @@
-# gbigliardi
-GitHub Pages
