@@ -1,11 +1,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://gbigliardi.netlify.com/</loc>
+		<loc>https://gbigliardi.netlify.com</loc>
 	</url>
 	<url>
 		<loc>https://gbigliardi.netlify.com/about.html</loc>
 	</url>
 	<url>
 		<loc>https://gbigliardi.netlify.com/cookies.html</loc>
+	</url>
+	<url>
+		<loc>https://gbigliardi.netlify.com/sito-web-landing-page-monolingua.html</loc>
 	</url>
 </urlset>
